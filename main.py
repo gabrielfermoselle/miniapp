@@ -1,5 +1,4 @@
-# main.py
-# Punto de entrada de la app
+
 
 from frontend import mostrar_formulario
 

@@ -1,5 +1,4 @@
-# database.py
-# Simula una base de datos simple en memoria (lista)
+
 
 tareas = []
 

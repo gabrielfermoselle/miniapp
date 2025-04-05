@@ -1,5 +1,3 @@
-# frontend.py
-# Simulación de frontend vía consola
 
 from backend import procesar_tarea
 from database import obtener_tareas
